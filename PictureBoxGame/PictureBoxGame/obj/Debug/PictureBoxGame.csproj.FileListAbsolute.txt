@@ -1,0 +1,10 @@
+C:\Users\Tudor Podina\Desktop\Informatica\C#\PictureBoxGame\PictureBoxGame\bin\Debug\PictureBoxGame.exe.config
+C:\Users\Tudor Podina\Desktop\Informatica\C#\PictureBoxGame\PictureBoxGame\bin\Debug\PictureBoxGame.exe
+C:\Users\Tudor Podina\Desktop\Informatica\C#\PictureBoxGame\PictureBoxGame\bin\Debug\PictureBoxGame.pdb
+C:\Users\Tudor Podina\Desktop\Informatica\C#\PictureBoxGame\PictureBoxGame\obj\Debug\PictureBoxGame.csprojAssemblyReference.cache
+C:\Users\Tudor Podina\Desktop\Informatica\C#\PictureBoxGame\PictureBoxGame\obj\Debug\PictureBoxGame.Form1.resources
+C:\Users\Tudor Podina\Desktop\Informatica\C#\PictureBoxGame\PictureBoxGame\obj\Debug\PictureBoxGame.Properties.Resources.resources
+C:\Users\Tudor Podina\Desktop\Informatica\C#\PictureBoxGame\PictureBoxGame\obj\Debug\PictureBoxGame.csproj.GenerateResource.cache
+C:\Users\Tudor Podina\Desktop\Informatica\C#\PictureBoxGame\PictureBoxGame\obj\Debug\PictureBoxGame.csproj.CoreCompileInputs.cache
+C:\Users\Tudor Podina\Desktop\Informatica\C#\PictureBoxGame\PictureBoxGame\obj\Debug\PictureBoxGame.exe
+C:\Users\Tudor Podina\Desktop\Informatica\C#\PictureBoxGame\PictureBoxGame\obj\Debug\PictureBoxGame.pdb
